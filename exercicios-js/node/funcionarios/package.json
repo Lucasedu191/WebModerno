@@ -1,0 +1,21 @@
+{
+  "name": "funcionarios",
+  "version": "1.0.0",
+  "description": "funcionarios empresa thunder",
+  "main": "funcionarios.js",
+  "scripts": {
+    "start": "nodemon",
+    "dev": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "acupultura",
+    "video-game",
+    "pokemon"
+  ],
+  "author": "Lucas Fortinite",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
