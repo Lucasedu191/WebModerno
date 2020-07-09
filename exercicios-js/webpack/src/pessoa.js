@@ -1,5 +1,6 @@
+import './modulos/moduloaA'
 export default class Pessoa{
-    cumprimentas(){
+    cumprimentar(){
         return 'Bom dia'
     }
 }
